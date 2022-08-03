@@ -1014,7 +1014,7 @@ background-color: var(--accent-color);
 
 
 .checkbox-icon{
-  transition: background-color var(--animation);
+  transition: background-color var(--animation), border var(--animation);
 }
 .image-check{
   opacity: 0;
