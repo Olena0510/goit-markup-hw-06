@@ -93,11 +93,18 @@ img {
   display: block;
 }
 
+
+
+
+
+
+
+
+
 /* header */
 
 header {
   border-bottom: 1px solid #ececec;
-  /* outline: 2px solid tomato; */
 }
 
 .logo {
@@ -118,9 +125,9 @@ span {
 .header-container {
   display: flex;
   align-items: center;
-  /* outline: 2px solid tomato; */
+ 
 }
-.nav-title {
+.nav {
   margin-right: auto;
 }
 .nav-list {
@@ -202,8 +209,28 @@ span {
   display: block;
   background-color: #2196F3;
   border-radius: 2px;
-  /* outline: 2px solid tomato; */
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* hero */
 
 .about-title {
